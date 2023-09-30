@@ -18,9 +18,6 @@
 /xmlrpc.php
 node_modules
 
-# Configuration
-!wp-config.php
-
 # Example themes
 /wp-content/themes/twenty*/
 
